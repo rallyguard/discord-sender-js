@@ -7,7 +7,7 @@ This is a simple Node.js script that sends random messages to Discord channels a
 1. Clone or download this repository to your local machine.
 2. Install the required dependencies by running the following command in your terminal: npm install
 3. Create a config.json file in the root directory of the project and fill in the required values for each authorization:
-4. [
+[
   {
     "token": "YOUR_DISCORD_TOKEN",
     "filename": "FILE_WHERE_MESSAGES_FILL",
