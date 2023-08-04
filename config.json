@@ -1,0 +1,16 @@
+[
+  {
+    "token": "YOUR_DISCORD_TOKEN",
+    "filename": "FILE_WHERE_MESSAGES_FILL",
+    "channelId": "DISCORD_CHANNEL_ID",
+    "timeSleepMin": 5,
+    "timeSleepMax": 10
+  },
+  {
+    "token": "YOUR_DISCORD_TOKEN",
+    "filename": "FILE_WHERE_MESSAGES_FILL",
+    "channelId": "DISCORD_CHANNEL_ID",
+    "timeSleepMin": 5,
+    "timeSleepMax": 10
+  }
+]
